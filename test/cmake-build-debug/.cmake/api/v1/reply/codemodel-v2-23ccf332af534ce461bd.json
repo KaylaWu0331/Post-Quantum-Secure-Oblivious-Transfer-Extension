@@ -1,0 +1,92 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bit-Debug-33018238c2fb268285d9.json",
+					"name" : "bit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "float::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-float-Debug-d0a77db98c6a5664d6f1.json",
+					"name" : "float",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "int::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-int-Debug-2d3eaa028e1924e4e328.json",
+					"name" : "int",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pqot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pqot-Debug-d74ef57a5e31efa16512.json",
+					"name" : "pqot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pqyao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pqyao-Debug-b7a1aaeecb8beec0e0d8.json",
+					"name" : "pqyao",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/tim_fischer/Documents/uni/PQ-MPC/test/cmake-build-debug",
+		"source" : "/home/tim_fischer/Documents/uni/PQ-MPC/test"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
